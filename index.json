@@ -1,17 +1,27 @@
 {
+  "docs/error-handling.html": {
+    "href": "docs/error-handling.html",
+    "title": "Errors handling | Help",
+    "keywords": "Errors handling In the event of data errors, the app provides detailed notifications, which are displayed directly on the Import Proposal page for your convenience.: Clicking on the error notification opens a dedicated page with detailed information for better understanding:"
+  },
   "docs/getting-started.html": {
     "href": "docs/getting-started.html",
-    "title": "Getting Started | Help",
-    "keywords": "Getting Started"
+    "title": "How to use | Help",
+    "keywords": "How to use The app is fully operational immediately upon installation, with no setup required. A new action, \"Import with Copilot,\" will be added to the General Journal, as shown below: After clicking on this action, a new dialog page will be shown: Simply click 'Attach' or 'Import Data from File' and select the desired Excel file for seamless import: The app will automatically perform the column matching and display a preview of the data for your review: After clicking on Keep it, the lines will be imported into the journal: The Excel file used in this example is structured as follows:"
   },
   "docs/introduction.html": {
     "href": "docs/introduction.html",
     "title": "About the app | Help",
-    "keywords": "About the app This app streamlines the process of importing data from Microsoft Excel into the General Journal, requiring no setup or predefined templates. With advanced AI-driven recognition, the app intelligently matches Excel columns to journal fields based on their names, even if they don't align perfectly. The AI technology ensures seamless identification of the correct columns, eliminating the need for manual adjustments or precise naming conventions. Simply upload your Excel file, and the app will handle the rest, making the data import process faster and more efficient. How to use With no setup required, the app is fully operational immediately upon installation. The installation will add a new action „Import with Copilot“ as shown below:"
+    "keywords": "About the app This app streamlines the process of importing data from Microsoft Excel into the General Journal, requiring no setup or predefined templates. With advanced AI-driven recognition, the app intelligently matches Excel columns to journal fields based on their names, even if they don't align perfectly. The AI technology ensures seamless identification of the correct columns, eliminating the need for manual adjustments or precise naming conventions. Simply upload your Excel file, and the app automatically detects and matches the relevant columns, ensuring accuracy and saving valuable time. With its advanced capabilities, the app simplifies data management, allowing users to focus on their core tasks without interruptions."
+  },
+  "docs/regenerate.html": {
+    "href": "docs/regenerate.html",
+    "title": "Regenerate response | Help",
+    "keywords": "Regenerate response Comming soon..."
   },
   "index.html": {
     "href": "index.html",
-    "title": "This is the HOMEPAGE. | Help",
-    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+    "title": "| Help",
+    "keywords": ""
   }
 }

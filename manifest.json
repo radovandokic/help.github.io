@@ -12,10 +12,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "docs/error-handling.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/error-handling.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "docs/getting-started.md",
       "output": {
         ".html": {
           "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/images/AIPrompt.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/images/AIPrompt.png"
         }
       },
       "version": ""
@@ -32,6 +52,116 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/images/ErrorMessages.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/images/ErrorMessages.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/images/ExcelImport.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/images/ExcelImport.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/images/ExcelSample.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/images/ExcelSample.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/images/ImportError.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/images/ImportError.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/images/ImportExcel.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/images/ImportExcel.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/images/ImportPreview.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/images/ImportPreview.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/images/ImportPrompt.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/images/ImportPrompt.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/images/JournalAfterImport.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/images/JournalAfterImport.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/images/l1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/images/l1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/images/l2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/images/l2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/images/l3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/images/l3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/images/logo.png",
       "output": {
         "resource": {
@@ -42,10 +172,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "docs/images/test1.jpg",
+      "source_relative_path": "docs/images/smallGray.png",
       "output": {
         "resource": {
-          "relative_path": "docs/images/test1.jpg"
+          "relative_path": "docs/images/smallGray.png"
         }
       },
       "version": ""
@@ -56,6 +186,16 @@
       "output": {
         ".html": {
           "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/regenerate.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/regenerate.html"
         }
       },
       "version": ""
